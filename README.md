@@ -86,6 +86,10 @@ Dependencies
  * openssl libcrypto https://www.openssl.org/
  * pthreads
  * zlib (for curl/ssl)
+ 
+ ```
+sudo apt-get install openssl libcrypto++-utils zlib1g zlibc python-pthreading libpthread-workqueue-dev python-pthreading libjansson4 libjansson-dev libcurl4-openssl-dev curl
+```
 
 Download
 ========
